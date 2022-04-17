@@ -213,7 +213,7 @@ function h() {
 }
 
 function j() {
-    var x = document.getElementById("k").value;
+    var x = document.getElementById("j").value;
     if (caps_val == true) {
         document.getElementById("textarea").value += x.toUpperCase();
     } else { document.getElementById("textarea").value += x; }
